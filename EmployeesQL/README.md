@@ -1,2 +1,3 @@
 # sql_challenge
 Module 9 SQL
+In homework 9, the challenge included three parts: data modeling, data, engineering, and data analysis. I was given 6 csv files that included information about the people the company employed in the 80's and 90's. I used the QuickDBD tool to make an Entity Relationship Diagram of the tables. From here, I used PostgreSQL to create tables for each csv file and then I used SQL code, to answer questions regarding the people and the company. This data analysis included SQL commands such as SELECT, FROM, JOIN, WHERE, ORDER BY and GROUP BY. Screenshots of each query are included in the EmployeeSQL folder. 
